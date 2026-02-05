@@ -1,6 +1,6 @@
 # 针对RuyiSDK Eclipse插件的测试
 
-测试版本为 [v0.1.1](https://github.com/ruyisdk/ruyisdk-eclipse-plugins/releases/tag/v0.1.1)
+测试版本为 [v0.1.2](https://github.com/ruyisdk/ruyisdk-eclipse-plugins/releases/tag/v0.1.2)
 
 ## 测试说明
 
@@ -19,7 +19,7 @@
 
 ## 测试结果
 
-共 12 个测试用例，成功 7 个，失败 5 个。
+共 13 个测试用例，成功 8 个，失败 5 个。
 | 测试用例 | 结果 | 备注 | issues |
 | :------------------------: | :----: | :----------------------------------------------------------------------------------------------------------: | :---: |
 | 虚拟环境/创建虚拟环境并应用到项目 | 失败 | 创建虚拟环境时选择的路径若不在项目目录下则无法使用 | [#84](https://github.com/ruyisdk/ruyisdk-eclipse-plugins/issues/84) |
